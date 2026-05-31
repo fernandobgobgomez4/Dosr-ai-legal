@@ -106,10 +106,10 @@ Supabase is our cloud database provider. Data you create in the App is synced to
 
 ### 5.2 Anthropic (AI Coach)
 
-When you send a message to the AI Coach feature, that message is transmitted to Anthropic's API to generate a response. We use Anthropic's API with Zero Data Retention enabled, which means:
+When you send a message to the AI Coach feature, that message is transmitted to Anthropic's API to generate a response. Under Anthropic's commercial API terms:
 
 - Your AI Coach messages are not used to train Anthropic's models.
-- Your messages are not stored by Anthropic beyond the brief time needed to generate a response.
+- Your messages may be retained by Anthropic for a limited period (generally up to 30 days) to detect and prevent abuse, after which they are deleted, except where retention is required to comply with law.
 
 The AI Coach has access to your dose logs, symptoms, bloodwork, and other relevant data to provide personalized responses. By using the AI Coach, you consent to this data being sent to Anthropic under these conditions. If you do not want your data sent to Anthropic, do not use the AI Coach feature. Anthropic's privacy policy is available at https://www.anthropic.com/legal/privacy.
 
@@ -141,7 +141,7 @@ We retain your data as long as your account is active. If you delete your accoun
 
 - Your data will be deleted from our active systems immediately.
 - Your data may persist in encrypted backups for up to 30 days before being permanently purged.
-- Your messages sent to the AI Coach are not retained by Anthropic, as noted in Section 5.2.
+- Your messages sent to the AI Coach are handled by Anthropic as described in Section 5.2 — not used to train their models, and retained only briefly for abuse prevention before deletion.
 
 You can request immediate deletion of all data, including backup copies, by contacting us at the email above.
 
