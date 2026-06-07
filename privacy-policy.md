@@ -1,7 +1,7 @@
 # DOSR-AI Privacy Policy
 
 **Effective Date:** May 27, 2026
-**Last Updated:** May 27, 2026
+**Last Updated:** June 7, 2026
 
 ---
 
@@ -9,11 +9,11 @@
 
 This Privacy Policy describes how DOSR-AI ("we," "us," or "our") collects, uses, stores, and protects your information when you use the DOSR-AI mobile application (the "App") on iOS and Android.
 
-DOSR-AI is published by **[FLAG: Legal entity name — currently operating as a partnership between Fernando Gomez and cofounder; update once LLC is formed if applicable]** ("the Publisher"). By using the App, you agree to the practices described in this policy.
+DOSR-AI is published by **DOSR AI LLC** ("the Publisher"). By using the App, you agree to the practices described in this policy.
 
 We are committed to data minimization: we collect only what is necessary to provide the App's functionality and explicitly avoid collecting data that is not required.
 
-If you have any privacy-related questions, contact us at **[FLAG: legal@dosrai.com — placeholder; final email to be confirmed with cofounder]**.
+If you have any privacy-related questions, contact us at **dosr.llc@gmail.com**.
 
 ---
 
@@ -201,14 +201,14 @@ We may update this Privacy Policy from time to time to reflect changes in our pr
 
 ## 13. Medical and Health Information
 
-Because the App involves tracking health-related data (compounds, doses, bloodwork, symptoms), please also review our [Medical Disclaimer](#) **[FLAG: replace # with the public URL of your medical disclaimer once hosted]**. The Medical Disclaimer explains the informational nature of the App and the responsibilities of users.
+Because the App involves tracking health-related data (compounds, doses, bloodwork, symptoms), please also review our [Medical Disclaimer](https://fernandobgobgomez4.github.io/Dosr-ai-legal/medical-disclaimer). The Medical Disclaimer explains the informational nature of the App and the responsibilities of users.
 
 ---
 
 ## 14. Contact
 
-For any questions about this policy or your data, contact us at **[FLAG: legal@dosrai.com — placeholder, confirm with cofounder]**.
+For any questions about this policy or your data, contact us at **dosr.llc@gmail.com**.
 
 ---
 
-_DOSR-AI is published by [FLAG: Legal entity name]. Governed by the laws of the State of North Carolina, United States._
+_DOSR-AI is published by DOSR AI LLC. Governed by the laws of the State of North Carolina, United States._

@@ -1,7 +1,7 @@
 # DOSR-AI Medical Disclaimer
 
 **Effective Date:** May 27, 2026
-**Last Updated:** May 27, 2026
+**Last Updated:** June 7, 2026
 **Disclaimer Version:** 1.0
 
 ---
@@ -52,7 +52,7 @@ By using the AI assistant, you acknowledge that the responses it generates are n
 
 You assume all risk. By using DOSR-AI, you acknowledge that you understand the risks associated with the substances and activities you are tracking, that you have made your own informed decision to use them (or not), and that you accept full responsibility for the outcomes.
 
-To the maximum extent permitted by law, and except for liability arising from gross negligence or willful misconduct, you release DOSR-AI, its publishers, the individual partners and owners, creators, operators, employees, contractors, and affiliates from any and all claims, damages, liabilities, or losses — including physical injury, illness, financial loss, legal consequence, or any other harm — arising from your use or misuse of this app or any information within it.
+To the maximum extent permitted by law, and except for liability arising from gross negligence or willful misconduct, you release DOSR-AI, its publishers, the individual member and owner, creators, operators, employees, contractors, and affiliates from any and all claims, damages, liabilities, or losses — including physical injury, illness, financial loss, legal consequence, or any other harm — arising from your use or misuse of this app or any information within it.
 
 ---
 
@@ -71,14 +71,14 @@ By using DOSR-AI, you confirm that:
 - You understand DOSR-AI is not a medical service and does not provide medical advice.
 - You will consult a qualified healthcare professional before acting on any information shown in this app.
 - You accept the assumption of risk and release of liability described above.
-- You have also reviewed and agree to our [Terms of Service](#) **[FLAG: replace # with hosted URL once Terms is live]** and [Privacy Policy](#) **[FLAG: replace # with hosted URL once Privacy Policy is live]**.
+- You have also reviewed and agree to our [Terms of Service](https://fernandobgobgomez4.github.io/Dosr-ai-legal/terms-of-service) and [Privacy Policy](https://fernandobgobgomez4.github.io/Dosr-ai-legal/privacy-policy).
 
 ---
 
 ## Contact
 
-For questions about this disclaimer, contact us at **[FLAG: legal@dosrai.com — placeholder, confirm with cofounder]**.
+For questions about this disclaimer, contact us at **dosr.llc@gmail.com**.
 
 ---
 
-_DOSR-AI is published by [FLAG: Legal entity name — currently operating as a partnership; update once LLC is formed if applicable]._
+_DOSR-AI is published by DOSR AI LLC._
