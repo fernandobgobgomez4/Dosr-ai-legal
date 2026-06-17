@@ -58,7 +58,7 @@ To ensure the App functions properly and to debug issues, we collect:
 - App version
 - Device operating system and version
 - General device type (iPhone, Android phone, etc.)
-- Crash logs, if you experience an app crash (this feature may be added post-launch with a service like Sentry; you will be notified via an updated policy when it is enabled)
+- Crash logs, if you experience an app crash. We use Sentry to collect crash and error reports so we can diagnose and fix problems. Sentry does not receive your IP address.
 
 We do not collect IP addresses for tracking purposes. We do not collect advertising identifiers.
 
@@ -89,7 +89,7 @@ We use the data described above only for the following purposes:
 - To process subscriptions and provide access to DOSR Pro features
 - To allow you to use social features (posts, comments, DMs, friends)
 - To generate responses from the AI Coach when you choose to send messages to it
-- To improve the App's stability through crash logs (when enabled)
+- To improve the App's stability through crash logs
 - To respond to your support inquiries
 
 We do not use your data for advertising. We do not profile you for marketing purposes.
@@ -125,6 +125,10 @@ When you purchase a subscription, your payment is processed by Apple (on iOS) or
 
 The App is built using the Expo platform. Expo provides over-the-air updates and crash reporting infrastructure. Their privacy policy is available at https://expo.dev/privacy.
 
+### 5.6 Sentry
+
+Sentry provides crash and error reporting. When the App encounters an error or crash, diagnostic information such as device type, operating system version, and a technical error report is sent to Sentry so we can identify and fix problems. Sentry does not receive your IP address. Their privacy policy is available at https://sentry.io/privacy/.
+
 ---
 
 ## 6. Where Your Data Is Stored
@@ -152,7 +156,7 @@ You can request immediate deletion of all data, including backup copies, by cont
 You have the following rights regarding your data:
 
 - **Access** — You can view all data you have logged in the App at any time directly within the App.
-- **Export** — Paid users can export their data in CSV, JSON, or PDF format directly from the App. Free users can request a manual data export by contacting us; we will provide it within 30 days at no cost.
+- **Export** — Paid users can export their data in CSV or JSON format directly from the App. Free users can request a manual data export by contacting us; we will provide it within 30 days at no cost.
 - **Correction** — You can edit or delete any logged data directly within the App.
 - **Deletion** — You can delete your account from within the App, which triggers the data deletion process described in Section 7.
 - **Withdraw consent** — You can stop using the App at any time. If you do not want certain features (such as the AI Coach), simply do not use them.
