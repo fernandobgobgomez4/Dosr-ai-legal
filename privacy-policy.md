@@ -156,7 +156,7 @@ You can request immediate deletion of all data, including backup copies, by cont
 You have the following rights regarding your data:
 
 - **Access** — You can view all data you have logged in the App at any time directly within the App.
-- **Export** — Paid users can export their data in CSV or JSON format directly from the App. Free users can request a manual data export by contacting us; we will provide it within 30 days at no cost.
+- **Export** — Paid users can export their protocol data as CSV and their log data as JSON directly from the App. Free users can request a manual data export by contacting us; we will provide it within 30 days at no cost.
 - **Correction** — You can edit or delete any logged data directly within the App.
 - **Deletion** — You can delete your account from within the App, which triggers the data deletion process described in Section 7.
 - **Withdraw consent** — You can stop using the App at any time. If you do not want certain features (such as the AI Coach), simply do not use them.
