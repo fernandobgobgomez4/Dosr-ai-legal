@@ -1,7 +1,7 @@
 # DOSR-AI Privacy Policy
 
 **Effective Date:** May 27, 2026
-**Last Updated:** June 26, 2026
+**Last Updated:** June 30, 2026
 
 ---
 
@@ -107,11 +107,11 @@ Supabase is our cloud database provider. Data you create in the App is synced to
 
 ###5.2 Anthropic (AI Features)
 
-AI Coach: In this version of the App, the AI Coach runs entirely on your device. Your AI Coach messages and the data in your account are not sent to Anthropic or any external server to generate Coach responses. (A future version of the App may introduce a cloud-based AI Coach; if it does, we will update this policy and obtain your consent before any of your data is sent externally.)
+AI Coach: The App offers an optional AI Coach feature that answers your questions and provides personalized guidance based on the data you track. If — and only if — you choose to use this feature, your message to the Coach, your recent Coach conversation history, and the relevant data you have logged — including your protocols and dose logs, body weight, training and nutrition logs, streak, and basic demographic information (age, sex, weight) — are sent, by way of our own secure server, to Anthropic's API to generate the Coach's reply. This information is sent only to produce Coach responses and for no other purpose. You will be asked to explicitly consent before the first time you use the AI Coach; if you do not consent, none of your data is sent and you can continue using the rest of the App normally.
 
 Bloodwork Photo Analysis: The App offers an optional feature that lets you photograph a lab/bloodwork report and have it analyzed by AI to extract your lab values. If — and only if — you choose to use this feature, the photo image you capture is sent, by way of our own secure server, to Anthropic's API for analysis. No other personal data accompanies the image — we do not send your name, demographic information, health history, or other logged data with it. You will be asked to explicitly consent before the first time you use this feature; if you do not consent, no image is sent and you can enter your bloodwork values manually instead.
 
-Under Anthropic's commercial API terms, data sent to Anthropic (the bloodwork image, if you use that feature):
+Under Anthropic's commercial API terms, the data sent to Anthropic (your AI Coach messages and context, and/or your bloodwork image, depending on which features you use):
 
 is not used to train Anthropic's models;
 may be retained by Anthropic for a limited period (generally up to 30 days) to detect and prevent abuse, after which it is deleted, except where retention is required to comply with law.
@@ -149,7 +149,9 @@ We retain your data as long as your account is active. If you delete your accoun
 
 - Your data will be deleted from our active systems immediately.
 - Your data may persist in encrypted backups for up to 30 days before being permanently purged.
--If you use the optional bloodwork photo analysis feature, the image sent to Anthropic is handled as described in Section 5.2 — not used to train their models, and retained only briefly for abuse prevention before deletion. Your AI Coach conversations are processed on your device and are deleted along with your account.
+-If you use the optional bloodwork photo analysis feature, the image sent to Anthropic is handled as described in Section 5.2 — not used to train their models, and retained only briefly for abuse prevention before deletion. Your AI Coach conversation history is stored on your device and is deleted along with your account. The messages and context sent to Anthropic to generate Coach replies are handled as described in Section 5.2 — not used to train their models, and retained only briefly for abuse prevention before deletion.
+
+
 You can request immediate deletion of all data, including backup copies, by contacting us at the email above.
 
 ---
