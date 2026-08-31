@@ -1,5 +1,7 @@
 # DOSR-AI Privacy Policy
 
+Last updated: June 30, 2026
+
 **Effective Date:** May 27, 2026
 **Last Updated:** June 30, 2026
 
