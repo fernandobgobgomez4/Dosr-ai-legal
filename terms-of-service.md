@@ -1,5 +1,7 @@
 # DOSR-AI Terms of Service
 
+Last updated: June 7, 2026
+
 **Effective Date:** May 27, 2026
 **Last Updated:** June 7, 2026
 
