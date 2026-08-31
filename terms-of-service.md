@@ -241,3 +241,5 @@ For questions about these Terms, contact us at **dosr.llc@gmail.com**.
 ---
 
 _DOSR-AI is published by DOSR AI LLC. By using the App, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service._
+
+Questions? See the README.
