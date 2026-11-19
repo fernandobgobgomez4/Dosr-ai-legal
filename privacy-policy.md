@@ -1,7 +1,7 @@
 # DOSR-AI Privacy Policy
 
 **Effective Date:** May 27, 2026
-**Last Updated:** June 30, 2026
+**Last Updated:** November 18, 2026
 
 ---
 
@@ -60,6 +60,7 @@ To ensure the App functions properly and to debug issues, we collect:
 - Device operating system and version
 - General device type (iPhone, Android phone, etc.)
 - Crash logs, if you experience an app crash. We use Sentry to collect crash and error reports so we can diagnose and fix problems. Sentry does not receive your IP address.
+- Product usage events, so we can see which features are used and improve the App. These record the kind of action (for example, "a dose was logged", "a workout was started", "an onboarding step was completed", "the subscription screen was shown") and when the App is opened, installed or updated. They are linked to your account by a random account ID, never your email or name, and they never include what you logged: no compound names, doses, weights, foods or notes. We use PostHog for this (see 5.7).
 
 We do not collect IP addresses for tracking purposes. We do not collect advertising identifiers.
 
@@ -132,6 +133,10 @@ The App is built using the Expo platform. Expo provides over-the-air updates and
 ### 5.6 Sentry
 
 Sentry provides crash and error reporting. When the App encounters an error or crash, diagnostic information such as device type, operating system version, and a technical error report is sent to Sentry so we can identify and fix problems. Sentry does not receive your IP address. Their privacy policy is available at https://sentry.io/privacy/.
+
+### 5.7 PostHog
+
+PostHog provides product analytics. It receives the usage events described in section 2.3 (the kind of action taken and app opens), tied to a random account ID. It does not receive your email, your name, or any health, dose, workout or food data you log, and we turn off its IP-based location lookup. We use it only to understand and improve the App, never for advertising, and it is not used to track you across other companies' apps or websites. Their privacy policy is available at https://posthog.com/privacy.
 
 ---
 
